@@ -61,4 +61,4 @@ docs/           architecture, testing, and the hall rules
 See [docs/architecture.md](docs/architecture.md) and [docs/testing.md](docs/testing.md).
 
 ##Link
-https://drive.google.com/file/d/12z7uBQLy3jTH0mqh7uy-yLFrfYCMZ2RD/view?usp=sharing
+https://drive.google.com/file/d/12z7uBQLy3jTH0mqh7uy-yLFrfYCMZ2RD/view?usp=drive_link
